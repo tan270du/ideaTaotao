@@ -15,6 +15,7 @@ import java.util.List;
  * Version:		1.0
  * Created at:	2018/1/5
  * </pre>
+ * @author rq
  */
 public class OrderInfo extends TbOrder implements Serializable {
     private List<TbOrderItem> orderItems;
